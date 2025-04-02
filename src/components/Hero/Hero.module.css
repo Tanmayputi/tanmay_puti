@@ -34,7 +34,7 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 50px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
@@ -53,6 +53,7 @@
 .heroImg {
   width: 50%;
   z-index: 1;
+  border-radius: 40%;
 
   animation-name: floating;
   animation-duration: 3s;

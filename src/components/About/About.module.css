@@ -27,6 +27,7 @@
 
 .aboutImage {
   width: 35%;
+  border: radius 40px;
 }
 
 .aboutItems {
@@ -89,4 +90,9 @@
     padding-left: 0;
     padding-right: 0;
   }
+}
+
+
+.medal{
+  width:70px;
 }
